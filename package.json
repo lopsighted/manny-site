@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://lopsighted.github.io/manny-site",
+  "homepage": "https://lopsighted.github.io/manny-site",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
