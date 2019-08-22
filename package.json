@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "git add .\rgit commit\rgit push -u origin master\rgh-pages -d build\r"
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
